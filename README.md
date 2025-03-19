@@ -1,5 +1,5 @@
 # Hangman
-A simple browser-based Hangman game built using HTML, CSS, and JavaScript.
+A simple browser-based Hangman game built using HTML, CSS, and JavaScript where players try to guess a hidden word by selecting letters before they run out of attempts. The game ends when the player either correctly guesses the word or runs out of attempts.
 
 ## Features
 - Three Difficulty Levels to choose from (easy, medium and hard)
